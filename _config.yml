@@ -1,10 +1,10 @@
 # Configurations
 title:            188102836's Blog
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+longtitle:        Welcome to 188102836's Blog
+author:           188102836
+email:            1972186173@qq.com
 description: >
-  Build Jekyll site with the GitBook style.
+  The Blog of 188102836.
 
 version:          1.0
 gitbook_version:  3.2.3
